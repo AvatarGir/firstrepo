@@ -1,1 +1,3 @@
 I am having fun testing out git. I am very confused, but I at least understand things so far. :)
+
+There is but one question... What would happen if I edited this document, then committed it to Github...?
